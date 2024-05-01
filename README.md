@@ -40,7 +40,8 @@
 - [Create a discord bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) and [add it to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link) with the `bot` and `applications.commands` scope
 - Install [Node.js](https://nodejs.org/en/) v16.6 or newer
 - [Open a command prompt in the same folder](https://www.thewindowsclub.com/how-to-open-command-prompt-from-right-click-menu#:~:text=To%20open%20a%20command%20prompt%20window%20in%20any%20folder%2C%20simply,the%20same%20inside%20any%20folder.) and type `npm i` to install dependencies
+- Dont forget to change the `.env.example` to `.env` and set the `BOT_TOKEN` and `MONGODB_URI` 
 
-## Thats will be it
+## That will be it
 
 Dont forget to leave a star on this repository if you like the idea 😄
